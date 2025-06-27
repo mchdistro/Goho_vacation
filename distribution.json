@@ -156,6 +156,16 @@
           }
         },
         {
+          "id": "com.hyfata.najoan:koreanpatch:1.8.3+mc1.20.4@jar",
+          "name": "Korean Patch",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 519717,
+            "url": "https://github.com/mchdistro/Goho_vacation/raw/main/servers/Goho_vacation-1.20.4/fabricmods/required/koreanpatch-fabric-1.8.3+mc1.20.4.jar",
+            "MD5": "340b1701eb3e7cf418ec52c4d3ea9555"
+          }
+        },
+        {
           "id": "me.jellysquid.mods:sodium:0.5.8+mc1.20.4@jar",
           "name": "Sodium",
           "type": "FabricMod",
@@ -215,17 +225,6 @@
             "url": "https://github.com/mchdistro/Goho_vacation/raw/main/servers/Goho_vacation-1.20.4/files/servers.dat",
             "MD5": "6c925a2af0decc2511423d9b81a42a6d",
             "path": "servers.dat"
-          }
-        },
-        {
-          "id": "BSL_v8.2.09.zip",
-          "name": "BSL_v8.2.09.zip",
-          "type": "File",
-          "artifact": {
-            "size": 954784,
-            "url": "https://github.com/mchdistro/Goho_vacation/raw/main/servers/Goho_vacation-1.20.4/files/shaderpacks/BSL_v8.2.09.zip",
-            "MD5": "4443556b4e0d63394f0df1297e484454",
-            "path": "shaderpacks/BSL_v8.2.09.zip"
           }
         },
         {
