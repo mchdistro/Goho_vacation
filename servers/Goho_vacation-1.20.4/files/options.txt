@@ -1,0 +1,10 @@
+version:3700
+autoJump:false
+realmsNotifications:false
+resourcePacks:["vanilla","fabric","file/고름방학.zip"]
+lang:ko_kr
+narrator:0
+tutorialStep:none
+skipMultiplayerWarning:true
+skipRealms32bitWarning:true
+onboardAccessibility:false

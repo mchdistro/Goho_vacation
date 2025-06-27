@@ -186,6 +186,16 @@
           }
         },
         {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 244,
+            "url": "https://github.com/mchdistro/Goho_vacation/raw/main/servers/Goho_vacation-1.20.4/files/options.txt",
+            "path": "options.txt"
+          }
+        },
+        {
           "id": "고름방학.zip",
           "name": "고름방학.zip",
           "type": "File",
