@@ -116,6 +116,16 @@
           ]
         },
         {
+          "id": "shcm.shsupercm:citresewn:1.1.4+1.20.4@jar",
+          "name": "CIT Resewn",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 391814,
+            "url": "https://github.com/mchdistro/Goho_vacation/raw/main/servers/Goho_vacation-1.20.4/fabricmods/required/citresewn-1.1.5+1.20.4.jar",
+            "MD5": "9707faa02b3d8e0d2c14b5c409dae4f7"
+          }
+        },
+        {
           "id": "traben.entity_model_features:entity_model_features:2.4.1@jar",
           "name": "Entity Model Features",
           "type": "FabricMod",
